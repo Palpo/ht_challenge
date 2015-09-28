@@ -41,7 +41,7 @@ Lisäksi tarvitaan Google-tili, jolla luodaan pari App Engine -sovellusta.
 Myös [Lintula](http://www.cs.tut.fi/lintula/)-tunnus tarvittaneen.
 
 Työ toteutetaan oletusarvoisesti parityönä. Yksinkin saa tehdä.
-Jos olet vailla harjoitustyöparia, voit etsiä sellaista vaikkapa IRC-kanavalla `#palpo`.
+Jos olet vailla harjoitustyöparia, voit etsiä sellaista vaikkapa IRCnetin kanavalla `#palpo`.
 
 Yli kahden hengen ryhmätkin ovat tässä harjoitustyössä mahdollisia, mutta tällöin toteutettavan sovelluksenkin on oltava laajempi.
 **Yli kahden hengen ryhmien on suunnitelmassaan perusteltava tarve lisäjäsen(e|i)lle.**
