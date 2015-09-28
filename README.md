@@ -51,15 +51,15 @@ Esim. mitä sellaisia lisäominaisuuksia sovelluksessa on, että sen toteuttamin
 ## Säännöt
 
 [Open Finland Challengen määrittelemät vähimmäisehdot](http://openfinlandchallenge.fi/saannot/) työlle ovat varsin vähäiset.
-Tästä syystä **kurssin puolesta annetaan seuraavat ****lisäehdot**, jotka työn on Open Finland Challengen sääntöjen lisäksi täytettävä:
+Tästä syystä **kurssin puolesta annetaan seuraavat lisäehdot**, jotka työn on Open Finland Challengen sääntöjen lisäksi täytettävä:
 
 1. Sovelluksen täytyy hyödyntää vähintään kahta eri  julkisen rajapinnan (API) kautta tarjolla olevaa datalähdettä uudenlaisen ja yksittäisiä datalähdettä rikkaamman tiedon tuottamiseen. Osa kilpailussa tarjolla olevista datalähteistä jaetaan tiedostoina. Näitäkin on mahdollista hyödyntää, mutta niitä ei lasketa kahden datalähteen vaatimuksiin, ellette sitten toteuta ja käytä erillistä omaa API:a kyseisen datan jakeluun.
 2. Sovelluksen täytyy tarjota REST-rajapinta tuottamaansa tietoon.
 3. REST-rajapinta on dokumentoitava.
 4. Suosittelemme palvelun pystyttämistä Googlen App Engine -ympäristöön. Jos kuitenkin haluatte käyttää jotakin muuta ympäristöä, valinta täytyy perustella projektisuunnitelmassa. Työn on joka tapauksessa oltava käytettävissä projektitöitä tarkastettaessa palautuksesta n. joulukuun alkupuolelle.
 
-Työ toteutetaan oletusarvoisesti 1-2 hengen ryhmällä. 
-Tätäkin suuremmat ryhmät ovat mahdollisia, mutta tällöin toteutettavan sovelluksenkin on oltava laajempi.
+Työ toteutetaan oletusarvoisesti parityönä. 
+Tässä työssä suuremmatkin ryhmät ovat mahdollisia, mutta tällöin toteutettavan sovelluksenkin on oltava laajempi.
 **Yli kahden hengen ryhmien on suunnitelmassaan perusteltava tarve lisäjäsen(e|i)lle.**
 Esim. mitä sellaisia lisäominaisuuksia sovelluksessa on, että sen toteuttaminen ei pienemmällä ryhmällä onnistu.
 
@@ -92,8 +92,8 @@ Palautus tapahtuu sulkemalla harjoitustyörepositorion issue nimeltä *Harjoitus
 
 ## Arvostelu
 
-**Harjoitustyö arvostellaan asteikolla 0-3. Arvosanan 1 saa työ, jossa kaikki pakolliset ominaisuudet on jotakuinkin toteutettu, ja se vaaditaan kurssin suoritukseen.**
-Korkeamman arvosanan voi saada toteuttamalla lisäominaisuuksia ja/tai jotkut osat työstä erityisen hyvin.
+**Harjoitustyö arvostellaan asteikolla 0-3. Työ joka täyttää yllä esitetyt vähimmäisvaatimukset saa arvosanan 1, ja se vaaditaan kurssin suoritukseen.**
+Korkeamman arvosanan voi saada toteuttamalla jotkut osat työstä erityisen hyvin.
 Arvostelussa tarkastellaan mm. seuraavia asioita:
 
 * Palvelun hyödyllisyys, omaperäisyys ja kekseliäisyys
@@ -120,7 +120,6 @@ Arvioinnissa vastataan ainakin seuraaviin kysymyksiin:
 * Onko dokumentaatio riittävän kattava ja selkeä? Miten sitä voisi parantaa?
 * Vastaako rajapinta dokumentaatiota?
 * Toimiiko rajapinta järkevästi virheellisten syötteiden tapauksessa?
-* Millä tavoin arvioitava rajapinta eroaa omasta rajapinnastanne? Onko jompi kumpi ratkaisu parempi?
 
 Sopiva pituus arviointidokumentille on sellainen, että ylläoleviin kysymyksiin on järkevästi vastattu.
 Mitään varsinaista kattavaa testausta (as in [testauskurssi](http://www.cs.tut.fi/~testaus/s2015/)) ei arvioitavalle rajapinnalle tarvitse tehdä.
