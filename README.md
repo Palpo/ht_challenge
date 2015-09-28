@@ -60,10 +60,7 @@ Tästä syystä **kurssin puolesta annetaan seuraavat lisäehdot**, jotka työn 
 3. REST-rajapinta on dokumentoitava.
 4. Suosittelemme palvelun pystyttämistä Googlen App Engine -ympäristöön. Jos kuitenkin haluatte käyttää jotakin muuta ympäristöä, valinta täytyy perustella projektisuunnitelmassa. Työn on joka tapauksessa oltava käytettävissä projektitöitä tarkastettaessa palautuksesta n. joulukuun alkupuolelle.
 
-Työ toteutetaan oletusarvoisesti parityönä. 
-Tässä työssä suuremmatkin ryhmät ovat mahdollisia, mutta tällöin toteutettavan sovelluksenkin on oltava laajempi.
-**Yli kahden hengen ryhmien on suunnitelmassaan perusteltava tarve lisäjäsen(e|i)lle.**
-Esim. mitä sellaisia lisäominaisuuksia sovelluksessa on, että sen toteuttaminen ei pienemmällä ryhmällä onnistu.
+Näiden lisäksi työn on luonnollisesti noudatettava Open Finland Challengen / Open Tampere Challengen sääntöjä sen mukaan mihin kilpailuun osallistuu.
 
 
 ## Suunnitelma
