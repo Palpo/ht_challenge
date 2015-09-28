@@ -7,6 +7,8 @@ Vaihtoehtoinen tapa suorittaa palvelupohjaisten järjestelmäin harjoitustyö on
 Kilpailuun osallistutaan suunnittelemalla ja toteuttamalla suomalaisia avoimia datalähteitä hyödyntävä sovellus.
 Kilpailuissa on jaossa on myös [rahapalkintoja](http://openfinlandchallenge.fi/sarjat-ja-palkinnot/) [(2)](http://www.opentamperechallenge.fi/opentamperechallenge/#palkinnot).
 
+Varsinaisen työn lisäksi tulee suorittaa vertaisarviontitehtävä, jossa kukin ryhmä arvioi jonkin toisen ryhmän palvelun.
+
 Jos huomaat tässä tehtävänannossa virheitä, puutteita tai epäselvyyksiä, voit ilmoittaa niistä luomalla issuen tähän repositorioon.
 
 
