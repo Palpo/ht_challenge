@@ -1,5 +1,5 @@
-Open Finland Challenge -harjoitustyöohje 
-========================================
+Harjoitustyöohje (Open Finland Challenge)
+=========================================
 
 Vaihtoehtoinen tapa suorittaa palvelupohjaisten järjestelmäin harjoitustyö on osallistua
 [Open Tampere Challenge](http://www.opentamperechallenge.fi/) tai
